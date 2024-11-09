@@ -67,7 +67,7 @@ header ul.nav li:last-child {
 	header ul.nav li {
 		margin: 0 7px;
 	}
-	.about-right p {
+	.renungan-right p {
 		display: none;
 	}
 }
@@ -162,9 +162,9 @@ section p {
 		padding: 8px 20px;
 	}
 }
-/*about area*/
+/*renungan area*/
 
-ul.about-content {
+ul.renungan-content {
 	width: 100%;
 	display: -webkit-flex;
 	display: -moz-flex;
@@ -174,7 +174,7 @@ ul.about-content {
 	flex-wrap: wrap;
 	justify-content: center;
 }
-.about-content li {
+.renungan-content li {
 	padding: 20px;
 	height: 500px;
 	background-clip: content-box;
@@ -182,17 +182,17 @@ ul.about-content {
 	background-size: cover;
 	background-position: center;
 }
-.about-left {
+.renungan-left {
 	flex-basis: 30%;
 	background-image: url(images/2.jpg);
 }
-.about-right {
+.renungan-right {
 	flex-basis: 70%;
 }
-.about-right h2 {
+.renungan-right h2 {
 	font-size: 35px;
 }
-.about-area p {
+.renungan-area p {
 	max-width: 800px;
 	margin-bottom: 35px;
 	line-height: 1.5;
@@ -207,10 +207,10 @@ ul.about-content {
 .section-title span {
 	color: #bf0a30;
 }
-.about-right h2 {
+.renungan-right h2 {
 	margin-bottom: 3%;
 }
-.about-btn {
+.renungan-btn {
 	padding: 15px 35px;
 	background: #bf0a30;
 	border-radius: 50px;
@@ -221,10 +221,10 @@ ul.about-content {
 	.section-title {
 		font-size: 35px;
 	}
-	.about-left, .about-right {
+	.renungan-left, .renungan-right {
 		flex-basis: 100%;
 	}
-	.about-content li {
+	.renungan-content li {
 		padding: 8px;
 	}
 }
