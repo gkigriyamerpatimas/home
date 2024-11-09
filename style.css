@@ -189,7 +189,7 @@ ul.renungan-content {
 .renungan-right {
 	flex-basis: 100%;
 }
-.renungan-center h2 {
+.renungan-right h2 {
 	font-size: 35px;
 	text-align: center
 }
