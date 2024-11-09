@@ -183,8 +183,7 @@ ul.renungan-content {
 	background-position: center;
 }
 .renungan-left {
-	flex-basis: 40%;
-	width: 50px;
+	flex-basis: 100%;
 	background-image: url(images/2.jpg);
 }
 .renungan-right {
