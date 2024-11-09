@@ -52,7 +52,7 @@ header ul.nav li:first-child {
 header ul.nav li:last-child {
 	margin-right: 0;
 }
-@media(max-width:1000px) {
+@media(max-width:100%) {
 	header {
 		padding: 20px 50px;
 	}
@@ -84,7 +84,7 @@ section {
 	padding: 110px 100px;
 	color: #000;
 }
-@media (max-width:1000px) {
+@media (max-width:100%) {
 	section {
 		padding: 100px 50px;
 	}
@@ -95,7 +95,7 @@ section {
 	}
 }
 section p {
-	max-width: 800px;
+	max-width: 100%;
 	text-align: center;
 	margin-bottom: 35px;
 	padding: 0 20px;
@@ -148,7 +148,7 @@ section p {
 	background: #bf0a30;
 	text-transform: uppercase;
 }
-@media (max-width:800px) {
+@media (max-width:100%) {
 	.banner-area {
 		min-height: 600px;
 	}
@@ -219,7 +219,7 @@ ul.renungan-content {
 	text-transform: uppercase;
 	color: #fff;
 }
-@media (max-width: 1000px) {
+@media (max-width: 100%) {
 	.section-title {
 		font-size: 35px;
 	}
@@ -272,7 +272,7 @@ ul.agenda-content {
 .agenda-content li p {
 	margin: 0;
 }
-@media (max-width:1000px) {
+@media (max-width:100%) {
 	.agenda-content li {
 		flex-basis: 100%;
 		margin-bottom: 65px;
@@ -309,7 +309,7 @@ ul.warta-content {
 .warta-content li p {
 	margin: 0;
 }
-@media (max-width: 1000px) {
+@media (max-width: 100%) {
 	.warta-content li {
 		flex-basis: 100%;
 		margin-bottom: 65px;
@@ -346,7 +346,7 @@ ul.contact-content {
 .contact-content li p {
 	margin: 0;
 }
-@media (max-width: 1000px) {
+@media (max-width: 100%) {
 	.contact-content li {
 		flex-basis: 100%;
 		margin-bottom: 65px;
