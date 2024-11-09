@@ -194,7 +194,7 @@ ul.renungan-content {
 	text-align: center
 }
 .renungan-area p {
-	max-width: 1100px;
+	max-width: 100%;
 	max-height: 800px;
 	margin-bottom: 35px;
 	line-height: 1;
