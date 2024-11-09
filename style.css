@@ -181,11 +181,7 @@ ul.renungan-content {
 	-webkit-background-size: cover;
 	background-size: cover;
 	background-position: center;
-}
-.renungan-top {
-	flex-basis: 30%;
-	background-image: url(images/2.jpg);
-}
+
 .renungan-center {
 	flex-basis: 70%;
 }
