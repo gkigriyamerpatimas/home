@@ -282,6 +282,43 @@ ul.services-content {
 		padding: 0;
 	}
 }
+/*warta area*/
+
+ul.warta-content {
+	width: 100%;
+	display: -webkit-flex;
+	display: -moz-flex;
+	display: -ms-flex;
+	display: -o-flex;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+}
+.warta-content li {
+	padding: 0 30px;
+	flex-basis: 33%;
+	text-align: center;
+}
+.warta-content li i {
+	font-size: 50px;
+	color: #bf0a30;
+	margin-bottom: 25px;
+}
+.warta-content li p {
+	margin: 0;
+}
+@media (max-width: 1000px) {
+	.warta-content li {
+		flex-basis: 100%;
+		margin-bottom: 65px;
+	}
+	.warta-content li:last-child {
+		margin-bottom: 0;
+	}
+	.warta-content li p {
+		padding: 0;
+	}
+}
 /*contact area*/
 
 ul.contact-content {
