@@ -182,14 +182,14 @@ ul.renungan-content {
 	background-size: cover;
 	background-position: center;
 }
-.renungan-left {
+.renungan-top {
 	flex-basis: 30%;
 	background-image: url(images/2.jpg);
 }
-.renungan-right {
+.renungan-center {
 	flex-basis: 70%;
 }
-.renungan-right h2 {
+.renungan-center h2 {
 	font-size: 35px;
 	text-align: center
 }
@@ -209,7 +209,7 @@ ul.renungan-content {
 .section-title span {
 	color: #bf0a30;
 }
-.renungan-right h2 {
+.renungan-center h2 {
 	margin-bottom: 3%;
 }
 .renungan-btn {
