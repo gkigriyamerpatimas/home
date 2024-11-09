@@ -187,10 +187,11 @@ ul.renungan-content {
 	background-image: url(images/2.jpg);
 }
 .renungan-right {
-	flex-basis: 70%;
+	flex-basis: 100%;
 }
 .renungan-center h2 {
 	font-size: 35px;
+	text-align: center
 }
 .renungan-area p {
 	max-width: 800px;
