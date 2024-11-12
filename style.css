@@ -24,7 +24,7 @@ body {
     align-items: center;
     padding: 1.4rem 7%;
     background-color: rgb(56, 56, 56);
-    border-bottom: 2px solid rgb(240, 74, 240);
+    border-bottom: 2px solid rgb(240, 162, 74);
     position: fixed;
     top: 0;
     left: 0;
@@ -40,7 +40,7 @@ body {
 }
 
 .navbar .navbar-logo span {
-    color: rgb(240, 74, 240);
+    color: rgb(240, 162, 74);
 }
 
 .navbar .navbar-nav a {
@@ -51,14 +51,14 @@ body {
 }
 
 .navbar .navbar-nav a:hover {
-    color: rgb(240, 74, 240);
+    color: rgb(240, 162, 74);
 }
 
 .navbar .navbar-nav a::after {
     content: '';
     display: block;
     padding-bottom: 0.5rem;
-    border-bottom: 0.1rem solid rgb(240, 74, 240);
+    border-bottom: 0.1rem solid rgb(240, 162, 74);
     transform: scaleX(0);
     transition: 0.3s linear;
 }
@@ -73,7 +73,7 @@ body {
 }
 
 .navbar .navbar-extra a:hover {
-    color: rgb(240, 74, 240);
+    color: rgb(240, 162, 74);
 }
 
 #hamburger-menu {
@@ -112,7 +112,7 @@ body {
     cursor: pointer;
     font-size: 2rem;
     margin-right: 1.5rem;
-    color: rgb(240, 74, 240);
+    color: rgb(240, 162, 74);
 }
 /* search end */
 
@@ -151,7 +151,7 @@ body {
 }
 
 .hero .content h1 span {
-    color: rgb(240, 74, 240);
+    color: rgb(240, 162, 74);
 }
 
 .hero .content p {
@@ -171,7 +171,7 @@ body {
     color: #fff;
     background-color: #222;
     border-radius: 0.5rem;
-    box-shadow: 1px 1px 3px rgb(240, 74, 240);
+    box-shadow: 1px 1px 3px rgb(240, 162, 74);
 }
 /* hero end */
 
@@ -196,7 +196,7 @@ body {
 .menu h2 span,
 .contact h2 span,
 .profile h2 span {
-    color: rgb(240, 74, 240);
+    color: rgb(240, 162, 74);
 }
 
 .about .row {
@@ -220,14 +220,14 @@ body {
 }
 
 .about .row .content h3 {
-    color: rgb(240, 74, 240);
+    color: rgb(240, 162, 74);
     font-size: 2.8rem;
     margin-bottom: 1rem;
 }
 
 .about .row .content-2 h3 {
     font-size: 2.8rem;
-    color: rgb(240, 74, 240);
+    color: rgb(240, 162, 74);
     left: 10;
 }
 
@@ -313,8 +313,8 @@ body {
     align-items: center;
     margin-top: 2rem;
     background-color: black;
-    border: 1px solid rgb(240, 74, 240);
-    box-shadow: 1px 1px 15px rgb(240, 74, 240);
+    border: 1px solid rgb(240, 162, 74);
+    box-shadow: 1px 1px 15px rgb(240, 162, 74);
     padding-left: 2rem;
 }
 
@@ -332,12 +332,12 @@ body {
     padding: 1rem 3rem;
     font-size: 1.7rem;
     color: #fff;
-    background-color: rgb(240, 74, 240);
+    background-color: rgb(240, 162, 74);
     cursor: pointer;
 }
 
 .contact .row .input-group {
-    color: rgb(240, 74, 240);
+    color: rgb(240, 162, 74);
 }
 /* contact end */
 
@@ -365,7 +365,7 @@ footer .socials a {
 
 footer .socials a:hover,
 footer .links a:hover {
-    color: rgb(240, 74, 240);
+    color: rgb(240, 162, 74);
 }
 
 footer .links {
@@ -382,7 +382,7 @@ footer .credit {
 }
 
 footer .credit a {
-    color: rgb(240, 74, 240);
+    color: rgb(240, 162, 74);
     font-weight: 700;
 }
 
@@ -405,8 +405,8 @@ footer .credit p {
     font-size: 2.1rem;
     padding: 10px 20px;
     border-radius: 5px;
-    border: 2px solid rgb(240, 74, 240);
-    box-shadow: 0 0 15px rgb(240, 74, 240);
+    border: 2px solid rgb(240, 162, 74);
+    box-shadow: 0 0 15px rgb(240, 162, 74);
     opacity: 0;
     transition: opacity 0.5s ease-in-out;
 }
